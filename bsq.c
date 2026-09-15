@@ -4,8 +4,9 @@
 
 int validate_map(t_map *map, int line)
 {
-	int i = 0;
+	int i;
 	int j;
+	i = 0;
 	if (line != map->rows)
 		return 0;
 	if (map->rows <= 0 || map->cols <= 0)
