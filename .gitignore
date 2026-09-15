@@ -1,6 +1,6 @@
 # Compiled program
 bsq
-*.vscode/
+.vscode/
 *.gitignore
 
 # Object files
