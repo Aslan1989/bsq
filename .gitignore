@@ -1,4 +1,17 @@
-.
-.vscode
-.md
-.gitignore
+# Compiled program
+bsq
+*.vscode/
+*.gitignore
+
+# Object files
+*.o
+
+# Debug files
+*.out
+
+# Valgrind
+vgcore.*
+
+# Temporary files
+*.swp
+*~
